@@ -3,7 +3,9 @@
 
 ### Goals
 1. Database Architecture (Not sure which DB)
-2. Website management
+2. Website Setup
 3. Android Support (Webapp or Native)
 
-[^1]: Genaral leaning Project for delevelopment on multiple platforms.
+---
+
+*Genaral leaning Project for delevelopment on multiple platforms.*
